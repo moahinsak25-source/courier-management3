@@ -94,3 +94,6 @@ Fields are separated by `|`. Saves go through a temporary file first, so a faile
 ## Input validation
 
 Menu choices, numbers and weight ranges, phone (7 to 15 digits), email, real calendar dates (`YYYY-MM-DD`, with leap years), duplicate IDs, missing records, and blocked deletions of customers or parcels that are still active.
+   ## Run it online (no install)
+   Copy the contents of `c++ project/courier.cpp` into an online C++ compiler such as
+   https://www.onlinegdb.com/online_c++_compiler and press Run.
