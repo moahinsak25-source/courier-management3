@@ -1,0 +1,12 @@
+# compiled program
+courier
+courier.exe
+*.o
+
+# runtime data created by the program
+customers.txt
+parcels.txt
+deliveries.txt
+payments.txt
+backup_*.txt
+*.tmp
